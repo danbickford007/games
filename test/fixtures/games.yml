@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  players: 1
+  score: 1
+
+two:
+  players: 1
+  score: 1
